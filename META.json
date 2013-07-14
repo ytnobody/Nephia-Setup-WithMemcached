@@ -53,5 +53,16 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/ytnobody/Nephia-Setup-WithMemcached/issues"
+      },
+      "homepage" : "https://github.com/ytnobody/Nephia-Setup-WithMemcached",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/ytnobody/Nephia-Setup-WithMemcached.git",
+         "web" : "https://github.com/ytnobody/Nephia-Setup-WithMemcached"
+      }
+   },
    "version" : "0.01"
 }
